@@ -10,7 +10,7 @@
 
 - 👨‍💼 **Profession**: Software Developer
 - 📊 **Focus**: Flutter Development.
-- 🌐 **GitHub**: [jigisha](https://github.com/thejigyasasingh)
+- 🌐 **GitHub**: [jigyasa](https://github.com/thejigyasasingh)
 - 🌎 **Hobbies**: Coding, Learning new technologies, and creating impactful software solutions
 
 ---
