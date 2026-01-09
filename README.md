@@ -66,21 +66,14 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Fallback Badges
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thejigyasasingh&theme=tokyonight" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/thejigyasasingh?style=social&label=Followers&color=blueviolet)
+![GitHub stars](https://img.shields.io/github/stars/thejigyasasingh?style=social&label=Stars&color=yellowgreen)
+![GitHub repo count](https://img.shields.io/github/repos/thejigyasasingh?style=flat-square&label=Repositories&color=orange)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejigyasasingh&theme=tokyo-night" />
 </div>
 
 ---
