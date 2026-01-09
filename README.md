@@ -70,6 +70,8 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark&no-frame=true&margin-w=15" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark)
+
 </div>
 
 ---
