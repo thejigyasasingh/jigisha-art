@@ -2,8 +2,9 @@
 <h3 align="center">Flutter Developer | Mobile App Engineer | UI Enthusiast</h3>
 
 <p align="center">
-  <img src=" https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQzamszYmpmbzJla3VlaXZ1YWo0MnJzd2ppbGZ4MHJzMXVrd285ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQzamszYmpmbzJla3VlaXZ1YWo0MnJzd2ppbGZ4MHJzMXVrd285ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" />
 </p>
+
 
 
 
