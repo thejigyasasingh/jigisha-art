@@ -69,10 +69,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark&no-frame=true&margin-w=15" />
-  <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thejigyasasingh&theme=onedark) --> -->
 <img src="https://github-readme-stats.vercel.app/api?username=thejigyasasingh&show_icons=true&theme=tokyonight" />
-
 </div>
 
 ---
